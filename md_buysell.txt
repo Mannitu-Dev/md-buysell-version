@@ -1,4 +1,4 @@
 1.0.0
-Fixed version checker parser issue
-Improved database schema validation
-Cleaned release package for Tebex
+Initial Tebex release
+Supports ESX, QBCore and Qbox
+Includes shop update and schema validation improvements
