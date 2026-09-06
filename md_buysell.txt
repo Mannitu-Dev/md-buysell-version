@@ -1,4 +1,4 @@
-1.0.1
+1.0.0
 Fixed version checker parser issue
 Improved database schema validation
 Cleaned release package for Tebex
